@@ -1,0 +1,11 @@
+{
+  "name": "robotron",
+  "version": "1.0.0",
+  "description": "montando um robo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Henrique Ortiz Alves Segantini",
+  "license": "ISC"
+}
